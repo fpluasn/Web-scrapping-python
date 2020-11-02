@@ -13,7 +13,6 @@ La presente actividad fué desarrolla por: <b>Félix Plúas Navarrete</b>
 Los siguientes recursos son de utilidad para la realización de la PEC:<br/>
   ● Subirats, L., Calvo, M. (2018). Web Scraping. Editorial UOC.<br/>
   ● Masip, D. El lenguaje Python. Editorial UOC.<br/>
-    Tipología y ciclo de vida de los datos Práctica 1 pág 3<br/>
   ● Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2.<br/>
     Scraping the Data.<br/>
   ● Simon Munzert, Christian Rubba, Peter Meißner, Dominic Nyhuis. (2015).<br/>
